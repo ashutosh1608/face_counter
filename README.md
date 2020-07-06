@@ -1,2 +1,2 @@
-# face_counter
+# Face Counter
 Detection of Human Faces in an image
